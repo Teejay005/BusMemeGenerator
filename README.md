@@ -24,5 +24,3 @@ Use your grunt global installation or grunt  installed locally as a development 
 
 * Local grunt installation: *./node_modules/grunt-cli/bin/grunt test*
 * Global grunt installation: *grunt test*
-
-added circleci
